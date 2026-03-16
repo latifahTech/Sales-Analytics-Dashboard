@@ -1,4 +1,7 @@
-# Sales Analytics Dashboard
+# 📊 Sales Analytics Dashboard
+
+> 💡 **Note:** This project is currently undergoing **UX/UI Enhancements** to provide a more intuitive and seamless user experience. Stay tuned for the final version! 🚀
+
 
 ## Project Overview
 Analyzed sales across multiple channels and products to monitor revenue trends, discounts, and customer behavior. Supports decision-making for sales optimization.
@@ -7,22 +10,20 @@ Analyzed sales across multiple channels and products to monitor revenue trends, 
 - Excel (Pivot Tables, Charts)
 - Power BI (Dashboards, KPIs, Interactive Reporting)
 
-## Features
-- Interactive dashboards by channel, product, and customer segment
-- Revenue and discount tracking
-- Trend analysis for sales optimization
+## ✨ Key Features
+- **Multi-Channel Analysis:** Interactive breakdown of revenue by sales channel.
+- **Discount Tracking:** Identification of discount patterns and their impact on net profit.
+- **Trend Forecasting:** Visualizing sales growth to support future inventory planning.
 
-## Impact
-- Highlighted high-performing products and channels
-- Identified revenue leakage and discount patterns
-- Provided actionable insights for sales optimization
+## 📈 Expected Impact
+- Highlighting high-performing products to focus marketing efforts.
+- Identifying revenue leakage from excessive discounting.
+- Enhancing reporting speed through optimized data modeling.
 
-## How to Use
-1. Load datasets from `/Data`
-2. Explore Power BI dashboards in `/Reports`
-3. Filter by channel, product, or time period
+## 📸 Preview & UX Design
+*Coming Soon (Updating Screenshots...)*
 
-## Screenshots
-
-## Link to Dashboard
-[View Dashboard Online](https://link-to-powerbi-dashboard)
+## 🚀 How to Use
+1. Clone the repository.
+2. Load datasets from the `/Data` folder.
+3. Open the `.pbix` file in the `/Reports` folder.
