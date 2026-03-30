@@ -1,0 +1,7 @@
+ProviderID,ProviderName,SLA_Days,ReliabilityScore
+1,Aramex,1,0.79
+2,DHL,2,0.96
+3,FedEx,3,0.71
+4,UPS,4,0.92
+5,Saudi Post,3,0.8
+6,BlueDart,3,0.94
